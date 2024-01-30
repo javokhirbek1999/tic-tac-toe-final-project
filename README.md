@@ -1,4 +1,18 @@
-# React + Vite
+# Tic-Tac-Toe
+
+## Javokhirbek Khaydaraliev 
+## Student ID: 40797
+
+Before running the project, make sure to the run the following command:
+
+```bash
+$ npm install
+```
+
+To run the project, execute the following command:
+```bash
+$ npm run dev
+```
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
