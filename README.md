@@ -3,6 +3,9 @@
 ## Javokhirbek Khaydaraliev 
 ## Student ID: 40797
 
+
+The app is running live <a href="https://tic-tac-toe-javokhirbek.netlify.app/" target="_blank">here</a>
+
 Before running the project, make sure to the run the following command:
 
 ```bash
